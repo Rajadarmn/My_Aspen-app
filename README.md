@@ -1,7 +1,7 @@
-# 🌏 HIJRI'S TRIP
+# 🌏 Aspen
 
 ## ✨ Deskripsi Aplikasi
-**HIJRI'S TRIP** adalah aplikasi perjalanan yang dirancang untuk memberikan pengalaman yang menyenangkan dan elegan bagi penggunanya. Aplikasi ini menawarkan tiga layar utama yang membuat pengguna merasa betah dan tertarik untuk menjelajahi lebih banyak.
+**Aspen** adalah aplikasi perjalanan yang dirancang untuk memberikan pengalaman yang menyenangkan dan elegan bagi penggunanya. Aplikasi ini menawarkan tiga layar utama yang membuat pengguna merasa betah dan tertarik untuk menjelajahi lebih banyak.
 
 ## 📱 Layar Aplikasi
 
