@@ -16,3 +16,6 @@ Saat pengguna memilih destinasi, mereka akan diarahkan ke layar Detail yang memb
 📝 Kesimpulan Aspen adalah partner perjalanan yang sempurna bagi siapa saja yang gemar menjelajah tempat-tempat baru. Dengan desain yang sederhana namun elegan, aplikasi ini menjadikan eksplorasi destinasi wisata lebih menyenangkan. Setiap layar telah dirancang secara cermat untuk memberikan pengalaman yang user-friendly dan menarik.
 
 🎊 Akhir Kata Terima kasih telah meluangkan waktu untuk mengenal Aspen! Kami harap aplikasi ini dapat membantu Anda menemukan petualangan baru dan menciptakan momen-momen indah. Selamat bepergian! 🌟
+
+
+![Product mockups](https://github.com/user-attachments/assets/24a3b308-45e5-4a62-86ce-fe693f6e16f9)
