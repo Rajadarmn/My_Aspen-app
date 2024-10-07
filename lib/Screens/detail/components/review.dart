@@ -45,7 +45,7 @@ class Review extends StatelessWidget {
         ),
         SizedBox(height: size.height * 0.01),
         Text(
-          "Jabodetabek is as close as one can get to a storybook alpine town in America. The choose-your-own-adventure possibilities—skiing, hiking, dining shopping and ....",
+          "Jabodetabek is as close as one can get to a storybook alpine town in sumatra. The choose-your-own-adventure possibilities—skiing, hiking, dining shopping and ....",
           style: TextStyle(
             fontSize: 16,
             fontFamily: 'ProductSans',

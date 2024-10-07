@@ -40,7 +40,7 @@ class DetaiScreen extends StatelessWidget {
                               fontSize: 12,
                               fontWeight: FontWeight.w700),
                         ),
-                        Text("\$199",
+                        Text("\$223",
                             style: GoogleFonts.montserrat(
                                 fontSize: 24,
                                 fontWeight: FontWeight.bold,
